@@ -158,4 +158,4 @@ See the [manifest review](#) below (or ask me) for suggested fixes to each of th
 
 ## Credits
 
-Built on top of the [AWS Containers Retail Sample App](https://github.com/aws-containers/retail-store-sample-app), via the [LondheShubham153/retail-store-sample-app](https://github.com/LondheShubham153/retail-store-sample-app) fork used in the TrainWithShubham community DevOps course. This repository adds the Terraform + ArgoCD GitOps wiring on top.
+Built on top of the [AWS Containers Retail Sample App](https://github.com/aws-containers/retail-store-sample-app). This repository adds the Terraform + ArgoCD GitOps wiring on top.
